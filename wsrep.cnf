@@ -15,4 +15,4 @@ wsrep_cluster_name='galera_cluster'
 wsrep_node_address='172.16.10.154'
 wsrep_node_name='galera11'
 wsrep_sst_method=rsync
-wsrep_sst_auth=sst_user:dbpass
+wsrep_sst_auth=sst:calvin
